@@ -1,7 +1,5 @@
 name: Bloomberg Tax (BTAX)
-description: Bloomberg Tax provides comprehensive tax research, news, and 
-  practice tools for tax professionals, combining authoritative content with 
-  advanced technology for tax planning, compliance, and research.
+description: Bloomberg Tax provides comprehensive tax research, news, and practice tools for tax professionals, combining authoritative content with advanced technology for tax planning, compliance, and research.
 url: https://www.bloombergtax.com
 created: '2024'
 modified: '2024'
@@ -18,10 +16,10 @@ apis:
       - type: authentication
         url: https://developer.bloombergtax.com/authentication
     tags:
-      - tax research
-      - legal research
-      - tax law
-      - analysis
+      - Analysis
+      - Legal Research
+      - Tax Law
+      - Tax Research
   - name: Bloomberg Tax News API
     description: >-
       Retrieve breaking tax news, updates, and analysis from Bloomberg Tax journalists
@@ -34,9 +32,9 @@ apis:
       - type: openapi
         url: https://api.bloombergtax.com/news/openapi.json
     tags:
-      - tax news
-      - breaking news
-      - tax updates
+      - Breaking News
+      - Tax News
+      - Tax Updates
   - name: Bloomberg Tax Calculators API
     description: >-
       Access tax calculation tools and calculators for various tax scenarios and jurisdictions.
@@ -46,9 +44,9 @@ apis:
       - type: documentation
         url: https://developer.bloombergtax.com/docs/calculators
     tags:
-      - tax calculators
-      - tax planning
-      - calculations
+      - Calculations
+      - Tax Calculators
+      - Tax Planning
   - name: Bloomberg Tax Forms API
     description: >-
       Retrieve federal and state tax forms, instructions, and publications.
@@ -60,10 +58,10 @@ apis:
       - type: schemas
         url: https://api.bloombergtax.com/forms/schemas
     tags:
-      - tax forms
-      - IRS forms
-      - state forms
-      - publications
+      - IRS Forms
+      - Publications
+      - State Forms
+      - Tax Forms
   - name: Bloomberg Tax Rates API
     description: >-
       Access current and historical tax rates for federal, state, and international
@@ -76,19 +74,19 @@ apis:
       - type: openapi
         url: https://api.bloombergtax.com/rates/openapi.json
     tags:
-      - tax rates
-      - federal rates
-      - state rates
-      - international rates
+      - Federal Rates
+      - International Rates
+      - State Rates
+      - Tax Rates
 maintainers:
   - name: Bloomberg Tax
     email: support@bloombergtax.com
     url: https://www.bloombergtax.com/support
 tags:
-  - tax
-  - research
-  - compliance
-  - legal
-  - finance
-  - accounting
-  - professional services
+  - Accounting
+  - Compliance
+  - Finance
+  - Legal
+  - Professional Services
+  - Research
+  - Tax
