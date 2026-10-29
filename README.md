@@ -64,19 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bloomberg Tax (BTAX) is a comprehensive tax research, planning, and compliance platform providing tax professionals with authoritative primary sources, expert analysis, and practical tools covering federal, state, and international tax law.
+Bloomberg Tax (BTAX) is a comprehensive tax research, planning, and compliance platform providing tax professionals with authoritative primary sources, expert analysis, and practical tools. Bloomberg Tax covers federal, state, and international tax law and provides data APIs for integrating tax rates, regulations, and guidance into enterprise tax technology workflows.
 
-## APIs
+**Areas:** Tax · Tax Research · Tax Compliance · Tax Planning · Federal Tax · International Tax · Bloomberg Tax
 
-- **Bloomberg Tax Data API** - Tax rates, regulations, and compliance data
-- **Bloomberg Tax Transfer Pricing** - Transfer pricing comparables and documentation tools
+## Bloomberg Tax (BTAX) on APIs.io
 
-## Resources
+Everything profiled for Bloomberg Tax (BTAX) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bloomberg-tax-btax/](https://apis.io/providers/bloomberg-tax-btax/)** — or go straight to one of the APIs or properties below.
 
-- [Bloomberg Tax Professional](https://pro.bloombergtax.com/)
-- [Bloomberg Tax Transfer Pricing](https://pro.bloombergtax.com/transfer-pricing/)
-- [Bloomberg Tax Contact](https://pro.bloombergtax.com/contact/)
+### APIs (2)
 
-## Profile
+- [Bloomberg Tax Data API](https://apis.io/apis/bloomberg-tax-btax/btax-data-api/) — Access Bloomberg Tax data including tax rates, regulations, guidance, and compliance data for integration into enterprise tax technology systems and…
+- [Bloomberg Tax Transfer Pricing](https://apis.io/apis/bloomberg-tax-btax/btax-transfer-pricing/) — Specialized transfer pricing research and data platform providing comparables databases, country-by-country reporting data, and transfer pricing…
 
-See [apis.yml](apis.yml) for the full API profile.
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bloomberg Tax Btax Domain Security](https://apis.io/security/bloomberg-tax-btax/bloomberg-tax-btax-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bloomberg Tax Btax Plans Pricing](https://apis.io/plans/bloomberg-tax-btax/bloomberg-tax-btax-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bloomberg Tax Btax Rate Limits](https://apis.io/rate-limits/bloomberg-tax-btax/bloomberg-tax-btax-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Bloomberg Tax Btax Finops](https://apis.io/finops/bloomberg-tax-btax/bloomberg-tax-btax-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bloombergtax.com)
+- [Documentation](https://pro.bloombergtax.com/)
+- [Support](https://pro.bloombergtax.com/contact/)
+- [Terms of service](https://www.bloomberg.com/notices/tos/)
+- [Privacy policy](https://www.bloomberg.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 17.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bloomberg-tax-btax/](https://apis.io/providers/bloomberg-tax-btax/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bloomberg Tax (BTAX): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bloomberg-tax-btax/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
